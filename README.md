@@ -3,8 +3,6 @@
 ## About Me
 Hello! I'm Juan Pablo Velasquez, a Senior at the University of Southern New Hampshire. Welcome to my GitHub Pages!
 
-![Profile Picture](profile-picture.jpg) <!-- You can upload a profile picture and link it here -->
-
 ## Education
 - 🎓 **University**: University of Southern New Hampshire
 - 📚 **Major**: Computer Science
