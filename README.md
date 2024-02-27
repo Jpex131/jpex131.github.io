@@ -6,7 +6,7 @@ Hello! I'm Juan Pablo Velasquez, a Senior at the University of Southern New Hamp
 ## Education
 - 🎓 **University**: University of Southern New Hampshire
 - 📚 **Major**: Computer Science
-- 🎖 **Status**: Senior
+- 🎖 **Status**: Graduated
 
 ## Skills
 - Problem-Solving
