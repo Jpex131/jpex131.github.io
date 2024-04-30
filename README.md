@@ -23,9 +23,9 @@ Hello! I'm Juan Pablo Velasquez, a Senior at the University of Southern New Hamp
 - Aspiring to take on leadership roles in tech-driven companies
 
 ## Contact Me
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 🌐 LinkedIn: [Juan Pablo Velasquez](https://www.linkedin.com/in/juanpablovelasquez/)
-- 🐦 Twitter: [@juanpablo](https://twitter.com/juanpablo)
+- 📧 Email: [youremail@example.com]()
+- 🌐 LinkedIn: [Juan Pablo Velasquez]()
+- 🐦 Twitter: [@juanpablo]()
 
 ## Projects
 - [Project 1](https://github.com/yourusername/project1)
