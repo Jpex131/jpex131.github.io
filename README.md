@@ -23,11 +23,10 @@ Hello! I'm Juan Pablo Velasquez. Welcome to my GitHub Pages!
 - Lead the integration of computational tools and environmental science to create infrastructure projects that prioritize sustainability, enhancing efficiency and reducing ecological impacts through innovative design practices.
 
 ## Contact Me
-- 📧 Email: [youremail@example.com]()
+- 📧 Email: [jpvelasquez9100@eagle.fgcu.edu.com]()
 - 🌐 LinkedIn: [Juan Pablo Velasquez]()
 - 🐦 Twitter: [@juanpablo]()
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [Project 1]([https://github.com/yourusername/project1](https://github.com/Jpex131/my-mean-project))
 
